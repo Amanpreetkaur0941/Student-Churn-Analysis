@@ -1,0 +1,151 @@
+Student_ID,Student_Name,Age,Gender,City,Course_Name,Course_Category,Enrollment_Date,Last_Login_Date,Course_Price,Discount_Applied,Amount_Paid,Completion_Status,Refund_Issued,Engagement_Score,Videos_Watched,Assignments_Completed,Days_Inactive
+S1001,Vihaan Gupta,18,Female,Bangalore  ,Excel for Beginners,Productivity,Dec 12 2024,16-03-2025,7000,500,6500,Completed,Yes,2,32,,1
+S1002,Navya Iyer,25,MALE,Chennai,Advanced Excel,Productivity,12/23/2024,Feb 15 2025,4000,500,3500,CHURNED,yes,,6,yes,44
+S1003,Ishaan Khan,19,female,Mumbai  ,Power BI Complete Guide,Analytics,11/17/2024,02-04-2025,5000,0,5000,Completed,NO,4,14,Yes,
+S1004,Ananya Reddy,29,Female,Chennai  ,Excel for Beginners,Productivity,07-11-2024,01/27/2025,4000,500,3500,Churned,yes,4,20,Yes,
+S1005,Diya Kapoor,26,MALE,Pune,Digital Marketing Pro,Marketing,Jul 21 2024,,4000,1000,3000,completed,No,,47,,
+S1006,Ananya Reddy,22,Male,Delhi,Advanced Excel,Productivity,Nov 17 2024,,7000,0,7000,Churned,no,8,16,,1
+S1007,Vihaan Gupta,26,Male,Chennai ,Advanced Excel,Productivity,Aug 20 2024,Aug 20 2024,7000,500,6500,churned,Yes,9,12,No,20
+S1008,Sara Ali,28,Male,Mumbai ,Power BI Complete Guide,Analytics,02-05-2024,09-05-2024,3000,500,2500,CHURNED,Yes,9,42,no,60
+S1009,Ishaan Khan,34,MALE,Hyderabad  ,Power BI Complete Guide,Analytics,Jul 23 2024,Oct 16 2024,6000,,6000,Churned,Yes,4,21,Yes,37
+S1010,Riya Banerjee,25,FEMALE,Delhi,Excel for Beginners,Productivity,01/17/2024,06-05-2024,7000,500,6500,COMPLETE,NO,4,8,,36
+S1011,Anika Das,31,Male,Kolkata ,Business Analysis Fundamentals,Analytics,Jul 29 2024,26-09-2024,5000,0,5000,Completed,no,6,12,No,34
+S1012,Myra Nair,26,Female,Mumbai ,Excel for Beginners,Productivity,Jan 26 2024,18-04-2024,3000,500,2500,completed,no,8,25,Yes,10
+S1013,Diya Kapoor,32,female,Jaipur  ,Digital Marketing Pro,Marketing,03/20/2024,04/13/2024,3000,,3000,Churn,YES,1,3,,64
+S1014,Sai Patel,19,Female,Mumbai  ,Excel for Beginners,Productivity,11-12-2024,,3000,,3000,completed,YES,1,5,no,74
+S1015,Sara Ali,28,FEMALE,Pune,Power BI Complete Guide,Analytics,Jul 21 2024,Aug 06 2024,6000,1000,5000,CHURNED,Yes,8,36,Yes,4
+S1016,Sara Ali,22,Male,Hyderabad ,Power BI Complete Guide,Analytics,Mar 21 2024,May 16 2024,7000,,7000,Completed,NO,5,6,No,16
+S1017,Navya Iyer,26,MALE,Hyderabad  ,Python for Data Science,Programming,Apr 14 2024,Jul 10 2024,7000,500,6500,COMPLETE,Yes,,2,Yes,16
+S1018,Ishaan Khan,32,MALE,Delhi,Excel for Beginners,Productivity,19-12-2024,13-04-2025,6000,1000,5000,churned,YES,3,2,yes,
+S1019,Reyansh Shah,21,MALE,Kolkata  ,Advanced Excel,Productivity,01-05-2024,08/19/2024,6000,0,6000,completed,NO,7,47,No,20
+S1020,Vihaan Gupta,19,Female,Hyderabad ,Python for Data Science,Programming,05-06-2024,09/18/2024,3000,500,2500,Churned,yes,,22,,86
+S1021,Aadhya Mehta,21,Female,Chandigarh ,Data Analytics Bootcamp,Analytics,02/25/2024,May 11 2024,5000,1000,4000,Churned,YES,,36,No,5
+S1022,Myra Nair,18,male,Kolkata,Python for Data Science,Programming,Nov 15 2024,25-12-2024,5000,1000,4000,churned,yes,,44,yes,35
+S1023,Myra Nair,23,female,Jaipur,Power BI Complete Guide,Analytics,05/26/2024,Jun 21 2024,6000,500,5500,Churned,NO,,50,No,
+S1024,Sara Ali,28,FEMALE,Chennai,SQL Mastery,Analytics,16-03-2024,03/19/2024,6000,,6000,CHURNED,Yes,7,36,No,
+S1025,Anika Das,30,FEMALE,Delhi,Business Analysis Fundamentals,Analytics,Apr 22 2024,,3000,,3000,completed,Yes,,42,,
+S1026,Aanya Chatterjee,31,Female,Ahmedabad ,Power BI Complete Guide,Analytics,May 06 2024,Aug 21 2024,6000,,6000,Churned,NO,,4,yes,
+S1027,Aadhya Mehta,35,Female,Hyderabad ,Advanced Excel,Productivity,27-12-2024,,6000,1000,5000,churned,no,7,26,no,74
+S1028,Aarav Sharma,30,male,Chennai ,Business Analysis Fundamentals,Analytics,Oct 02 2024,01-05-2025,6000,500,5500,COMPLETE,no,,21,no,
+S1029,Arjun Verma,18,MALE,Chandigarh  ,Data Analytics Bootcamp,Analytics,02-12-2024,05-04-2024,6000,500,5500,completed,Yes,,13,no,
+S1030,Ishaan Khan,31,female,Delhi  ,Data Analytics Bootcamp,Analytics,Jun 28 2024,26-07-2024,6000,0,6000,CHURNED,Yes,4,39,No,
+S1031,Vihaan Gupta,32,male,Bangalore  ,Excel for Beginners,Productivity,24-03-2024,02-05-2024,5000,,5000,Churn,no,7,37,No,
+S1032,Ira Malhotra,19,MALE,Kolkata  ,Python for Data Science,Programming,Feb 05 2024,Apr 09 2024,3000,500,2500,CHURNED,no,,40,no,
+S1033,Sai Patel,26,female,Kolkata  ,Power BI Complete Guide,Analytics,14-06-2024,01-10-2024,5000,500,4500,completed,no,10,24,yes,
+S1034,Sai Patel,24,male,Pune ,Power BI Complete Guide,Analytics,Oct 11 2024,10-12-2024,3000,500,2500,Churn,no,8,44,no,
+S1035,Aarav Sharma,20,female,Hyderabad ,Python for Data Science,Programming,Aug 30 2024,Nov 08 2024,6000,,6000,COMPLETE,yes,,16,No,
+S1036,Vihaan Gupta,35,Female,Ahmedabad ,Power BI Complete Guide,Analytics,21-02-2024,Jun 06 2024,4000,1000,3000,completed,yes,1,17,Yes,
+S1037,Arjun Verma,33,MALE,Chennai ,Digital Marketing Pro,Marketing,13-08-2024,25-09-2024,5000,500,4500,Completed,Yes,7,36,Yes,19
+S1038,Shaurya Joshi,20,MALE,Kolkata  ,SQL Mastery,Analytics,09/24/2024,,5000,,5000,Churned,yes,10,39,Yes,26
+S1039,Reyansh Shah,26,Female,Bangalore  ,Excel for Beginners,Productivity,03/21/2024,,5000,,5000,Churned,yes,,45,yes,44
+S1040,Krishna Yadav,24,Male,Jaipur,Advanced Excel,Productivity,16-05-2024,29-08-2024,3000,500,2500,CHURNED,yes,,28,Yes,
+S1041,Diya Kapoor,34,female,Mumbai  ,Data Analytics Bootcamp,Analytics,08-09-2024,Nov 11 2024,3000,0,3000,completed,NO,10,48,yes,36
+S1042,Anika Das,32,Female,Chandigarh ,Digital Marketing Pro,Marketing,02/16/2024,,5000,1000,4000,Churn,Yes,,44,no,
+S1043,Navya Iyer,19,male,Chennai ,Excel for Beginners,Productivity,Jul 25 2024,12-11-2024,5000,,5000,Churned,no,4,23,,63
+S1044,Aanya Chatterjee,24,MALE,Bangalore ,Digital Marketing Pro,Marketing,23-12-2024,23-02-2025,5000,,5000,CHURNED,No,5,0,,26
+S1045,Vihaan Gupta,32,female,Chennai  ,Power BI Complete Guide,Analytics,07/31/2024,,4000,500,3500,churned,No,4,32,No,
+S1046,Myra Nair,34,Male,Chennai  ,Power BI Complete Guide,Analytics,Oct 27 2024,,6000,500,5500,Churned,YES,,35,,
+S1047,Reyansh Shah,25,female,Delhi ,Digital Marketing Pro,Marketing,12/27/2024,,5000,500,4500,Churned,Yes,9,21,Yes,55
+S1048,Sara Ali,32,female,Bangalore,Digital Marketing Pro,Marketing,May 15 2024,,5000,0,5000,CHURNED,yes,,40,no,55
+S1049,Ira Malhotra,25,Female,Mumbai ,Excel for Beginners,Productivity,20-11-2024,,4000,1000,3000,Completed,Yes,,22,yes,27
+S1050,Sara Ali,31,Female,Mumbai  ,Business Analysis Fundamentals,Analytics,13-11-2024,,7000,500,6500,completed,no,,42,Yes,
+S1051,Navya Iyer,20,male,Chandigarh ,Business Analysis Fundamentals,Analytics,12/19/2024,Jan 20 2025,4000,500,3500,CHURNED,no,,36,yes,37
+S1052,Shaurya Joshi,30,Male,Chandigarh  ,Data Analytics Bootcamp,Analytics,11-06-2024,Feb 09 2025,6000,500,5500,churned,yes,4,16,No,12
+S1053,Vivaan Singh,27,MALE,Pune  ,Advanced Excel,Productivity,02/16/2024,Jun 11 2024,5000,500,4500,completed,No,,33,,58
+S1054,Ishaan Khan,27,Male,Ahmedabad,Advanced Excel,Productivity,Apr 25 2024,,6000,,6000,COMPLETE,Yes,,34,Yes,47
+S1055,Ishaan Khan,30,FEMALE,Hyderabad ,Data Analytics Bootcamp,Analytics,Nov 13 2024,Mar 06 2025,7000,500,6500,Churn,Yes,5,26,Yes,8
+S1056,Shaurya Joshi,33,Female,Jaipur,Business Analysis Fundamentals,Analytics,Aug 20 2024,,7000,500,6500,Churned,NO,8,26,yes,
+S1057,Reyansh Shah,32,male,Mumbai  ,Python for Data Science,Programming,Oct 05 2024,Jan 28 2025,3000,500,2500,COMPLETE,No,2,42,No,81
+S1058,Aarav Sharma,19,Female,Chandigarh,Excel for Beginners,Productivity,Oct 10 2024,11-05-2024,6000,500,5500,COMPLETE,No,,9,No,34
+S1059,Vihaan Gupta,18,male,Hyderabad  ,Python for Data Science,Programming,01-09-2024,31-01-2024,4000,500,3500,churned,Yes,,49,yes,32
+S1060,Aanya Chatterjee,34,FEMALE,Jaipur ,Digital Marketing Pro,Marketing,25-11-2024,,6000,500,5500,Churned,NO,8,28,Yes,
+S1061,Ira Malhotra,22,male,Chandigarh  ,Python for Data Science,Programming,Jul 14 2024,Sep 28 2024,6000,,6000,churned,no,2,41,,
+S1062,Aanya Chatterjee,31,female,Kolkata ,Excel for Beginners,Productivity,06-09-2024,Aug 02 2024,5000,500,4500,Churn,no,2,5,no,6
+S1063,Navya Iyer,35,FEMALE,Mumbai ,Python for Data Science,Programming,12-06-2024,05-04-2025,5000,,5000,COMPLETE,yes,10,13,No,42
+S1064,Vihaan Gupta,35,Male,Chennai  ,SQL Mastery,Analytics,Aug 07 2024,23-11-2024,7000,1000,6000,Completed,No,,22,Yes,18
+S1065,Diya Kapoor,20,Male,Jaipur,Business Analysis Fundamentals,Analytics,08-02-2024,09/29/2024,5000,1000,4000,Churn,yes,10,3,No,10
+S1066,Aditya Kumar,32,female,Chandigarh ,Business Analysis Fundamentals,Analytics,May 19 2024,15-06-2024,5000,500,4500,Completed,yes,8,42,yes,
+S1067,Ira Malhotra,19,male,Hyderabad,Power BI Complete Guide,Analytics,28-05-2024,08-07-2024,6000,500,5500,completed,No,9,14,,
+S1068,Aditya Kumar,19,Male,Ahmedabad,Python for Data Science,Programming,Oct 21 2024,,5000,500,4500,COMPLETE,Yes,,10,,
+S1069,Aditya Kumar,31,female,Chandigarh ,Excel for Beginners,Productivity,07/21/2024,Nov 09 2024,4000,1000,3000,CHURNED,No,9,7,,
+S1070,Ananya Reddy,22,Female,Chennai,Advanced Excel,Productivity,Nov 04 2024,23-11-2024,4000,500,3500,Churned,YES,8,36,,
+S1071,Arjun Verma,20,female,Chennai ,Data Analytics Bootcamp,Analytics,29-06-2024,Sep 01 2024,6000,500,5500,Completed,Yes,6,41,Yes,76
+S1072,Diya Kapoor,32,female,Chandigarh  ,SQL Mastery,Analytics,06/13/2024,08/29/2024,3000,500,2500,Completed,yes,9,11,Yes,
+S1073,Aanya Chatterjee,34,male,Pune ,Business Analysis Fundamentals,Analytics,07/28/2024,04-11-2024,6000,1000,5000,Completed,yes,9,24,yes,84
+S1074,Arjun Verma,28,male,Chennai  ,Business Analysis Fundamentals,Analytics,Mar 07 2024,22-05-2024,5000,,5000,Churned,NO,3,44,,82
+S1075,Myra Nair,34,male,Chennai,SQL Mastery,Analytics,06/23/2024,09/29/2024,4000,500,3500,completed,Yes,2,49,,53
+S1076,Aadhya Mehta,22,Female,Bangalore  ,Advanced Excel,Productivity,08-12-2024,Aug 17 2024,5000,500,4500,Churned,YES,5,34,No,19
+S1077,Ananya Reddy,32,female,Jaipur  ,Business Analysis Fundamentals,Analytics,23-03-2024,07-05-2024,6000,1000,5000,Completed,NO,6,6,,
+S1078,Aditya Kumar,26,MALE,Bangalore ,Excel for Beginners,Productivity,04/23/2024,Aug 05 2024,3000,500,2500,Completed,no,9,24,Yes,23
+S1079,Aadhya Mehta,21,Female,Delhi ,Digital Marketing Pro,Marketing,22-12-2024,,6000,,6000,Completed,Yes,1,9,,77
+S1080,Myra Nair,21,male,Mumbai,SQL Mastery,Analytics,Aug 02 2024,,3000,0,3000,CHURNED,no,10,40,,30
+S1081,Arjun Verma,27,MALE,Pune,Business Analysis Fundamentals,Analytics,Apr 05 2024,29-06-2024,7000,1000,6000,Completed,YES,9,35,Yes,24
+S1082,Diya Kapoor,29,male,Mumbai ,SQL Mastery,Analytics,02-12-2024,Feb 20 2025,4000,0,4000,COMPLETE,YES,3,29,no,40
+S1083,Aditya Kumar,19,Female,Delhi,Data Analytics Bootcamp,Analytics,06-10-2024,,6000,,6000,Churned,yes,,22,Yes,
+S1084,Ishaan Khan,29,female,Ahmedabad ,Python for Data Science,Programming,Apr 05 2024,,5000,,5000,COMPLETE,Yes,,38,No,
+S1085,Vihaan Gupta,28,male,Ahmedabad  ,Business Analysis Fundamentals,Analytics,03/26/2024,Jun 22 2024,6000,0,6000,Churn,yes,,40,Yes,85
+S1086,Diya Kapoor,29,Male,Bangalore  ,Digital Marketing Pro,Marketing,18-01-2024,02-03-2024,6000,1000,5000,COMPLETE,no,1,9,no,
+S1087,Aanya Chatterjee,22,female,Pune  ,Power BI Complete Guide,Analytics,07-05-2024,05/21/2024,6000,,6000,Churned,YES,,45,no,
+S1088,Anika Das,24,Male,Ahmedabad,Digital Marketing Pro,Marketing,Feb 14 2024,May 27 2024,5000,1000,4000,Churn,Yes,,19,No,90
+S1089,Sai Patel,29,Male,Hyderabad,SQL Mastery,Analytics,09-09-2024,Sep 12 2024,6000,,6000,completed,YES,,25,no,
+S1090,Riya Banerjee,22,FEMALE,Mumbai ,Digital Marketing Pro,Marketing,12/14/2024,02/18/2025,6000,,6000,Churn,YES,,32,Yes,15
+S1091,Arjun Verma,27,male,Hyderabad ,Power BI Complete Guide,Analytics,10-02-2024,Mar 13 2024,4000,1000,3000,churned,YES,9,10,,60
+S1092,Sai Patel,28,Male,Delhi  ,Power BI Complete Guide,Analytics,Nov 29 2024,,7000,0,7000,Churned,NO,5,19,no,
+S1093,Shaurya Joshi,32,Female,Ahmedabad ,Digital Marketing Pro,Marketing,08/25/2024,09/20/2024,5000,1000,4000,Churn,yes,,32,,6
+S1094,Aanya Chatterjee,26,Female,Bangalore,Data Analytics Bootcamp,Analytics,May 28 2024,,4000,500,3500,CHURNED,yes,10,48,No,
+S1095,Anika Das,27,Male,Kolkata  ,Digital Marketing Pro,Marketing,May 03 2024,May 30 2024,3000,0,3000,COMPLETE,no,,34,Yes,
+S1096,Arjun Verma,29,male,Delhi ,Data Analytics Bootcamp,Analytics,18-10-2024,Dec 28 2024,7000,1000,6000,Completed,no,8,17,,43
+S1097,Arjun Verma,30,male,Jaipur ,Advanced Excel,Productivity,Apr 11 2024,,7000,0,7000,Completed,Yes,,33,no,77
+S1098,Arjun Verma,28,female,Chandigarh  ,Power BI Complete Guide,Analytics,Oct 30 2024,,5000,,5000,COMPLETE,no,,43,Yes,
+S1099,Aarav Sharma,33,FEMALE,Delhi  ,Digital Marketing Pro,Marketing,Mar 28 2024,,4000,500,3500,Completed,YES,2,28,yes,
+S1100,Reyansh Shah,34,FEMALE,Delhi  ,Advanced Excel,Productivity,Sep 22 2024,Oct 18 2024,5000,500,4500,churned,no,,34,yes,45
+S1101,Ishaan Khan,33,male,Jaipur ,SQL Mastery,Analytics,06-01-2024,09-07-2024,5000,500,4500,COMPLETE,no,9,17,yes,73
+S1102,Navya Iyer,30,Female,Chennai,Power BI Complete Guide,Analytics,12/31/2024,,5000,1000,4000,Churn,no,4,17,,44
+S1103,Vihaan Gupta,25,FEMALE,Jaipur,SQL Mastery,Analytics,01/27/2024,Feb 08 2024,5000,500,4500,Completed,NO,1,10,no,
+S1104,Reyansh Shah,28,FEMALE,Delhi,SQL Mastery,Analytics,Sep 30 2024,02-01-2025,4000,500,3500,CHURNED,No,,11,yes,56
+S1105,Shaurya Joshi,28,female,Jaipur  ,Digital Marketing Pro,Marketing,Mar 09 2024,,5000,500,4500,CHURNED,Yes,3,29,yes,45
+S1106,Aadhya Mehta,27,MALE,Kolkata ,Python for Data Science,Programming,Feb 14 2024,05-04-2024,4000,500,3500,Churned,yes,,24,No,
+S1107,Shaurya Joshi,26,FEMALE,Hyderabad,Excel for Beginners,Productivity,26-08-2024,,5000,,5000,Churn,yes,,39,No,
+S1108,Arjun Verma,29,FEMALE,Jaipur ,SQL Mastery,Analytics,May 06 2024,01-08-2024,7000,500,6500,churned,NO,2,7,Yes,70
+S1109,Reyansh Shah,35,male,Jaipur ,Excel for Beginners,Productivity,Dec 14 2024,,3000,,3000,Churned,Yes,3,26,no,7
+S1110,Aanya Chatterjee,18,male,Delhi  ,SQL Mastery,Analytics,23-10-2024,,5000,0,5000,churned,Yes,2,18,no,17
+S1111,Myra Nair,30,female,Kolkata,Advanced Excel,Productivity,11/30/2024,20-03-2025,4000,,4000,Churned,YES,3,48,Yes,59
+S1112,Navya Iyer,35,Female,Hyderabad ,Python for Data Science,Programming,20-03-2024,24-04-2024,3000,500,2500,churned,Yes,4,6,,57
+S1113,Vivaan Singh,19,female,Hyderabad  ,SQL Mastery,Analytics,Jan 29 2024,Feb 15 2024,4000,,4000,COMPLETE,YES,10,19,No,42
+S1114,Myra Nair,27,MALE,Chandigarh  ,Advanced Excel,Productivity,11/16/2024,,3000,1000,2000,Churn,NO,,44,no,
+S1115,Diya Kapoor,35,Female,Hyderabad ,Advanced Excel,Productivity,25-08-2024,,6000,,6000,churned,No,,13,yes,
+S1116,Ananya Reddy,20,Male,Chennai ,Data Analytics Bootcamp,Analytics,Feb 07 2024,03-02-2024,6000,500,5500,CHURNED,yes,5,12,Yes,47
+S1117,Ira Malhotra,24,MALE,Pune ,Business Analysis Fundamentals,Analytics,Aug 26 2024,Nov 02 2024,5000,1000,4000,COMPLETE,YES,8,46,no,48
+S1118,Ananya Reddy,28,MALE,Hyderabad  ,Advanced Excel,Productivity,Jan 09 2024,,5000,500,4500,completed,yes,7,15,no,83
+S1119,Aadhya Mehta,33,female,Bangalore  ,Python for Data Science,Programming,Mar 27 2024,,4000,,4000,Churn,Yes,9,42,Yes,
+S1120,Arjun Verma,25,Male,Hyderabad  ,Digital Marketing Pro,Marketing,Jul 10 2024,,5000,500,4500,Completed,Yes,,0,Yes,35
+S1121,Shaurya Joshi,34,Female,Mumbai,Advanced Excel,Productivity,May 03 2024,May 27 2024,6000,1000,5000,COMPLETE,no,,29,,15
+S1122,Shaurya Joshi,20,female,Kolkata ,Digital Marketing Pro,Marketing,29-01-2024,04/19/2024,3000,500,2500,CHURNED,no,6,33,Yes,27
+S1123,Riya Banerjee,33,Male,Chennai  ,Data Analytics Bootcamp,Analytics,04-01-2024,28-07-2024,4000,,4000,completed,NO,,10,,
+S1124,Navya Iyer,28,FEMALE,Mumbai  ,Python for Data Science,Programming,01/28/2024,02-09-2024,6000,0,6000,COMPLETE,YES,,49,yes,
+S1125,Aanya Chatterjee,25,MALE,Kolkata ,Advanced Excel,Productivity,Dec 14 2024,,3000,,3000,COMPLETE,No,,9,no,45
+S1126,Diya Kapoor,28,Male,Delhi ,Digital Marketing Pro,Marketing,07-03-2024,08-10-2024,4000,0,4000,completed,no,9,32,no,6
+S1127,Ananya Reddy,20,female,Delhi ,Business Analysis Fundamentals,Analytics,17-07-2024,10/24/2024,7000,,7000,completed,NO,7,17,yes,17
+S1128,Aditya Kumar,31,female,Chennai ,Excel for Beginners,Productivity,03-07-2024,,7000,,7000,completed,no,,0,no,
+S1129,Aadhya Mehta,28,FEMALE,Chandigarh,Power BI Complete Guide,Analytics,Jun 13 2024,08/29/2024,6000,1000,5000,completed,no,5,44,no,
+S1130,Diya Kapoor,30,Male,Chandigarh,Advanced Excel,Productivity,Dec 15 2024,23-03-2025,5000,500,4500,Churn,No,5,4,no,43
+S1131,Shaurya Joshi,25,FEMALE,Kolkata ,Excel for Beginners,Productivity,08/17/2024,,7000,,7000,CHURNED,NO,7,50,yes,68
+S1132,Aditya Kumar,25,Female,Chandigarh,Business Analysis Fundamentals,Analytics,06/18/2024,27-09-2024,3000,0,3000,COMPLETE,No,9,37,,
+S1133,Diya Kapoor,32,male,Delhi ,Excel for Beginners,Productivity,31-05-2024,23-07-2024,6000,500,5500,COMPLETE,yes,6,33,no,22
+S1134,Aanya Chatterjee,32,male,Delhi  ,Excel for Beginners,Productivity,01-12-2024,29-04-2024,5000,500,4500,Churn,No,3,10,yes,
+S1135,Krishna Yadav,30,FEMALE,Kolkata ,Data Analytics Bootcamp,Analytics,10-11-2024,,7000,500,6500,Churned,Yes,,48,Yes,13
+S1136,Sai Patel,29,female,Mumbai ,Digital Marketing Pro,Marketing,09/27/2024,,7000,500,6500,churned,Yes,,39,No,86
+S1137,Shaurya Joshi,22,Male,Hyderabad ,Excel for Beginners,Productivity,Apr 03 2024,05/20/2024,7000,500,6500,Churned,YES,,27,No,81
+S1138,Sai Patel,23,male,Bangalore,Python for Data Science,Programming,18-08-2024,Nov 05 2024,3000,500,2500,completed,No,9,41,no,
+S1139,Myra Nair,32,Male,Chandigarh,SQL Mastery,Analytics,05/29/2024,06-02-2024,7000,1000,6000,completed,no,8,32,Yes,
+S1140,Navya Iyer,29,FEMALE,Ahmedabad  ,SQL Mastery,Analytics,Aug 05 2024,08/18/2024,5000,0,5000,Churned,yes,,7,No,75
+S1141,Ananya Reddy,31,Female,Hyderabad,Python for Data Science,Programming,Sep 29 2024,11-03-2024,5000,1000,4000,COMPLETE,YES,9,6,No,48
+S1142,Ishaan Khan,22,Female,Pune,Business Analysis Fundamentals,Analytics,Sep 07 2024,Sep 25 2024,5000,500,4500,Churned,no,,32,yes,
+S1143,Anika Das,28,FEMALE,Ahmedabad  ,Python for Data Science,Programming,Feb 02 2024,,4000,500,3500,CHURNED,No,,18,yes,35
+S1144,Riya Banerjee,33,Male,Mumbai  ,Digital Marketing Pro,Marketing,09-01-2024,,6000,0,6000,Churned,No,3,17,Yes,
+S1145,Aditya Kumar,29,female,Chennai  ,SQL Mastery,Analytics,07-08-2024,29-10-2024,3000,500,2500,Churned,Yes,3,33,no,1
+S1146,Aadhya Mehta,21,female,Mumbai,Business Analysis Fundamentals,Analytics,15-02-2024,18-05-2024,5000,1000,4000,COMPLETE,No,3,43,No,67
+S1147,Aarav Sharma,32,FEMALE,Hyderabad  ,Advanced Excel,Productivity,Jul 29 2024,,6000,500,5500,Completed,Yes,2,46,no,
+S1148,Arjun Verma,25,Female,Jaipur  ,Power BI Complete Guide,Analytics,Dec 19 2024,Dec 22 2024,4000,,4000,churned,YES,,41,Yes,
+S1149,Diya Kapoor,25,FEMALE,Chandigarh,Data Analytics Bootcamp,Analytics,07-03-2024,10/30/2024,6000,,6000,Churned,yes,,49,Yes,1
+S1150,Aarav Sharma,26,Male,Kolkata  ,Power BI Complete Guide,Analytics,Nov 17 2024,,6000,500,5500,Completed,NO,9,9,yes,5
