@@ -8,6 +8,9 @@ This project focuses on analyzing student engagement and churn patterns within a
 
 MS Excel: Data Cleaning, Pivot tables
 
-## Project Overview:
+## Project Structure:
+
+ 
+
 
 
