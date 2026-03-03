@@ -8,9 +8,13 @@ This project focuses on analyzing student engagement and churn patterns within a
 
 MS Excel: Data Cleaning, Pivot tables
 
-## Project Structure:
-1. Raw_data: (https://github.com/Amanpreetkaur0941/Student-Churn-Analysis/blob/9caab6dfd4058bf0c5535616a091612b951da6b1/edtech_student_churn_dataset%20Raw%20data.csv)
-2. Analysis Sheet:
+## Getting Started
+
+### How to use this project:
+1. **Download** the `edtech_student_churn_dataset Final.xlsx` file.
+2. **Open** the file and navigate to the `Clean_data` tab to view the processed dataset.
+3. **Interact** with the Pivot Tables in the `Pivot_sheet` to filter churn rates by course.
+4. **Read** the `Insights & Strategy` tab for the final business recommendations.
 
  
 
