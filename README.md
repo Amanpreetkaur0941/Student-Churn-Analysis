@@ -14,6 +14,7 @@ To view the full analysis and interactive dashboards, you can download the files
 
 * **Main Analysis:** [Download Excel Workbook (XLSX)](./edtech_student_churn_dataset%20Final.xlsx)
 * **Raw Dataset:** [View Raw Data (CSV)](./edtech_student_churn_dataset%20Raw%20data.csv)
+* **Insights Sheet:** [View Insights Sheet](./Insights Summary.xlsx)
   
  
 
